@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Davulz
+- 👋 Hi, I’m @Davulz/Marius
 - 👀 I’m interested in coding, actionsports, gaming, discgolf, magic the gathering and family
-- 🌱 I’m currently learning HTML, CSS and Java
-- 📫 How to reach me: mariuss@getacademy.no
+- 🌱 I’m currently training at Easy@Work
+- 📫 How to reach me: marius@easyatwork.com
 
 <!---
 Davulz/Davulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
